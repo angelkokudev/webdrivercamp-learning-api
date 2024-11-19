@@ -2,7 +2,7 @@ import requests
 
 
 def update_repo(url):
-    token = "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"
+    token = ""
     headers = {"Authorization": f'token {token}'}
     body = {"description": "I know Python Requests!"}
     response = requests.patch(url, headers=headers, json=body)

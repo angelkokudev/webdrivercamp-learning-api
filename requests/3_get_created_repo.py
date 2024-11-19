@@ -2,7 +2,7 @@ import requests
 
 
 def get_created_repo(url):
-    token = "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"
+    token = ""
     headers = {'Authorization': f'token {token}'}
     response = requests.get(url, headers=headers)
     print(f'Response status code: {response.status_code}')

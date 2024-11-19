@@ -3,7 +3,7 @@ from pprint import pprint
 
 
 def create_repo(url):
-    token = "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"
+    token = ""
     headers = {'Authorization': f'token {token}'}
     body = {
         "name": "repo-created-with-api",

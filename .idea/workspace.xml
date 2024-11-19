@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="620e13a6-df65-4276-9c90-e843089c8dee" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;angelkokudev&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/angelkokudev/webdrivercamp-learning-api&quot;,
+    &quot;accountId&quot;: &quot;31c17010-3a5f-4dbc-87d8-acde18d18295&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2olenGDTUyASppXKOpcmeTNTmqT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.0_get_all_repos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.0_write_to_file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1_append_to_file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1_get_with_auth.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2_create_repo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2_read_a_file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3_get_created_repo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3_to_json.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4_json_to_file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4_update_repo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5_delete_repo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5_from_json_file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7_validate_response.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Owner3010/Desktop/webdrivercamp-learning-api/requests&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Owner3010\Desktop\webdrivercamp-learning-api\requests" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.19416.19" />
+        <option value="bundled-python-sdk-337b0a7a993a-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.19416.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="620e13a6-df65-4276-9c90-e843089c8dee" name="Changes" comment="" />
+      <created>1731448755071</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731448755071</updated>
+      <workItem from="1731448756077" duration="4707000" />
+      <workItem from="1731517800983" duration="4619000" />
+      <workItem from="1731603870923" duration="14120000" />
+      <workItem from="1731688592021" duration="5760000" />
+      <workItem from="1731982803389" duration="2428000" />
+      <workItem from="1732031093333" duration="335000" />
+      <workItem from="1732033100998" duration="227000" />
+      <workItem from="1732033382216" duration="353000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/webdrivercamp_learning_api$5_delete_repo.coverage" NAME="5_delete_repo Coverage Results" MODIFIED="1731628817967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
+    <SUITE FILE_PATH="coverage/webdrivercamp_learning_api$2_create_repo.coverage" NAME="2_create_repo Coverage Results" MODIFIED="1731623496710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
+    <SUITE FILE_PATH="coverage/webdrivercamp_learning_api$4_update_repo.coverage" NAME="4_update_repo Coverage Results" MODIFIED="1731628772634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
+    <SUITE FILE_PATH="coverage/webdrivercamp_learning_api$5_from_json_file.coverage" NAME="5_from_json_file Coverage Results" MODIFIED="1731520030027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/input_and_output" />
+    <SUITE FILE_PATH="coverage/webdrivercamp_learning_api$0_write_to_file.coverage" NAME="0_write_to_file Coverage Results" MODIFIED="1731450530032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/input_and_output" />
+    <SUITE FILE_PATH="coverage/webdrivercamp_learning_api$3_get_created_repo.coverage" NAME="3_get_created_repo Coverage Results" MODIFIED="1731628767650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
+    <SUITE FILE_PATH="coverage/webdrivercamp_learning_api$0_get_all_repos.coverage" NAME="0_get_all_repos Coverage Results" MODIFIED="1731615837611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
+    <SUITE FILE_PATH="coverage/webdrivercamp_learning_api$7_validate_response.coverage" NAME="7_validate_response Coverage Results" MODIFIED="1732031162355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
+    <SUITE FILE_PATH="coverage/webdrivercamp_learning_api$1_append_to_file.coverage" NAME="1_append_to_file Coverage Results" MODIFIED="1731450801191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/input_and_output" />
+    <SUITE FILE_PATH="coverage/webdrivercamp_learning_api$4_json_to_file.coverage" NAME="4_json_to_file Coverage Results" MODIFIED="1731520259855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/input_and_output" />
+    <SUITE FILE_PATH="coverage/webdrivercamp_learning_api$1_get_with_auth.coverage" NAME="1_get_with_auth Coverage Results" MODIFIED="1731984641041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
+    <SUITE FILE_PATH="coverage/webdrivercamp_learning_api$3_to_json.coverage" NAME="3_to_json Coverage Results" MODIFIED="1731520245825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/input_and_output" />
+    <SUITE FILE_PATH="coverage/webdrivercamp_learning_api$2_read_a_file.coverage" NAME="2_read_a_file Coverage Results" MODIFIED="1731517804403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/input_and_output" />
+  </component>
+</project>
