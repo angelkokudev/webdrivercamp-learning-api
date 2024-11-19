@@ -1,6 +1,5 @@
 import requests
 
-
 def delete_repo(url):
     token = ""
     headers = {"Authorization": f'token {token}'}

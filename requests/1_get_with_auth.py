@@ -1,6 +1,5 @@
 import requests
 
-
 def get_with_auth(url):
     token = ""
     headers = {'Authorization': f'token {token}'}
