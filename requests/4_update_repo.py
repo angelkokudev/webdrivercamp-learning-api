@@ -1,7 +1,7 @@
 import requests
+from tokens import token
 
 def update_repo(url):
-    token = ""
     headers = {"Authorization": f'token {token}'}
     body = {"description": "I know Python Requests!"}
     response = requests.patch(url, headers=headers, json=body)

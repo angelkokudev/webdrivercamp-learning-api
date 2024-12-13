@@ -1,7 +1,7 @@
 import requests
+from tokens import token
 
 def delete_repo(url):
-    token = ""
     headers = {"Authorization": f'token {token}'}
     response = requests.delete(url, headers=headers)
     print(f'Response status code: {response.status_code}')

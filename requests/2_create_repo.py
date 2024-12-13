@@ -1,8 +1,8 @@
 import requests
 from pprint import pprint
+from tokens import token
 
 def create_repo(url):
-    token = ""
     headers = {'Authorization': f'token {token}'}
     body = {
         "name": "repo-created-with-api",

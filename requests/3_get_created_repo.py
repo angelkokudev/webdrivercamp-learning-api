@@ -1,7 +1,7 @@
 import requests
+from tokens import token
 
 def get_created_repo(url):
-    token = ""
     headers = {'Authorization': f'token {token}'}
     response = requests.get(url, headers=headers)
     print(f'Response status code: {response.status_code}')

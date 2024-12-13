@@ -1,9 +1,9 @@
 import json
-import requests
+import requests_1
 from pprint import pprint
 
 def find_mismatched_data(url, file_name):
-    response = requests.get(url)
+    response = requests_1.get(url)
     planets = response.json()
     with open(file_name, 'r') as file:
         file_data = json.load(file)
